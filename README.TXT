@@ -3,6 +3,28 @@ FriCAS V 1.2.7 (Windows)
 ========================
 
 Version 29-MAR-2016
+Release: FriCAS w32, release 1.2.7:
+https://github.com/nilqed/fricas_w32/releases/tag/v1.2.7
+
+
+FriCAS home: http://fricas.sourceforge.net/
+Documentation: http://fricas.github.io/
+
+--------
+Download
+--------
+
+
+Windows Installer (recommended):
+
+https://github.com/nilqed/fricas_w32/releases/download/v1.2.7/fricas-w32.exe
+
+
+ZIP-file:
+
+https://github.com/nilqed/fricas_w32/releases/download/v1.2.7/fricas-w32.zip
+
+
 
 --------
 Overview
