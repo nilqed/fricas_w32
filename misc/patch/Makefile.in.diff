@@ -1,0 +1,11 @@
+--- Makefile.in.old	2015-09-25 00:06:15 +0000
++++ Makefile.in	2015-12-23 12:13:21 +0000
+@@ -33,7 +33,7 @@
+ 	elif test ! -d "${PREGENERATED}"; then \
+ 	  echo "PREGENERATED directory does not exist."; \
+ 	  exit 1; \
+-	elif echo "${PREGENERATED}"|grep ^/ >/dev/null; then\
++	elif echo "${PREGENERATED}"|grep '^/\|^[A-Z]:' >/dev/null; then\
+ 	  if test -d ${PREGENERATED}/target; then \
+ 	    cp -r ${PREGENERATED}/target/* ${fricas_targetdir}; \
+ 	  fi && \
