@@ -17,12 +17,12 @@ Download
 
 Windows Installer (recommended):
 
-https://github.com/nilqed/fricas_w32/releases/download/v1.3.0/fricas-w32.exe
+https://github.com/nilqed/fricas_w32/releases/download/v1.3.0/fricas_w32.exe
 
 
 ZIP-file:
 
-https://github.com/nilqed/fricas_w32/releases/download/v1.3.0/fricas-w32.zip
+https://github.com/nilqed/fricas_w32/releases/download/v1.3.0/fricas_w32.zip
 
 
 
