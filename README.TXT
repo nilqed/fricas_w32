@@ -32,7 +32,7 @@ Overview
 
 This is a native Windows version of FriCAS built by MinGW/msys (32bit) from the pre-generated source tarball. The Lisp compiler used was SBCL 1.3.0:
 
-  * fricas-1.2.7-full.tar.bz2
+  * fricas-1.3.0-full.tar.bz2
   * sbcl-1.3.0-x86-windows-binary.msi 
 
 
